@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>mobile.xdk.corona.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>4</integer>
+		</dict>
+		<key>molpay_mobile_xdk_corona 2.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>6</integer>
+		</dict>
+		<key>molpay_mobile_xdk_corona.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>3</integer>
+		</dict>
+		<key>plugin_library.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
+		<key>plugin_molpay_mobile_xdk_corona.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>7</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>A4E253B5166D6FB300DCDC2C</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>B801EB3E1FA329090081E132</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>B801EB5B1FA329620081E132</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>B801EB701FA32B870081E132</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>

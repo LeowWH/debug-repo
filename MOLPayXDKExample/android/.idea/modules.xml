@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$USER_HOME$/Documents/corona/Project Template/App/android/android.iml" filepath="$USER_HOME$/Documents/corona/Project Template/App/android/android.iml" />
+      <module fileurl="file://$USER_HOME$/Documents/corona/Project Template/App/android/app/app.iml" filepath="$USER_HOME$/Documents/corona/Project Template/App/android/app/app.iml" />
+      <module fileurl="file://$USER_HOME$/Documents/corona/Project Template/App/android/plugin/plugin.iml" filepath="$USER_HOME$/Documents/corona/Project Template/App/android/plugin/plugin.iml" />
+    </modules>
+  </component>
+</project>
