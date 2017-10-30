@@ -21,12 +21,25 @@ This is the functional MOLPay Corona payment module that is ready to be implemen
 ## Installation
 
 ```
-1) tns plugin add molpay-mobile-xdk-nativescript
+1) add the following to build.setting
 
-2) Copy node_modules/molpay-mobile-xdk-nativescript/molpay-mobile-xdk-www to app folder
+plugins = {
+    ["molpay.mobile.xdk.corona"] =
+        {
+            publisherId = "com.molpay"
+        }
+}
 
-Example using terminal 
-cp -R node_modules/molpay-mobile-xdk-nativescript/molpay-mobile-xdk-www app
+iphone =
+    {
+        plist =
+        {
+            NSPhotoLibraryUsageDescription = "Payment images",
+            NSAppTransportSecurity = {
+                NSAllowsArbitraryLoads = true
+            }
+        }
+    }
 ```
 
 ## Sample Result
